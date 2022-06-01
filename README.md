@@ -1,10 +1,13 @@
 Olá, eu sou a Rafaela Toniatto ✨
 
+    📚 Formada em Gestão de Recursos Humanos
+    🧠 A procura de oportunidades na área 
+
 
 <div align="center">
   <a href="https://github.com/rafaelatoniatto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelatoniatto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelatoniatto&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelatoniatto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelatoniatto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  
